@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ningjiang/metis/DBoW_testing/DBoW2/src/BowVector.cpp
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+cmath
+-
+BowVector.h
+/home/ningjiang/metis/DBoW_testing/DBoW2/src/BowVector.h
+
+include/DBoW2/BowVector.h
+iostream
+-
+map
+-
+vector
+-
+

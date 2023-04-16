@@ -1,0 +1,7 @@
+/home/ningjiang/metis/DBoW_testing/fbow/tests/CMakeFiles/install/strip.dir
+/home/ningjiang/metis/DBoW_testing/fbow/tests/CMakeFiles/install/local.dir
+/home/ningjiang/metis/DBoW_testing/fbow/tests/CMakeFiles/install.dir
+/home/ningjiang/metis/DBoW_testing/fbow/tests/CMakeFiles/list_install_components.dir
+/home/ningjiang/metis/DBoW_testing/fbow/tests/CMakeFiles/rebuild_cache.dir
+/home/ningjiang/metis/DBoW_testing/fbow/tests/CMakeFiles/edit_cache.dir
+/home/ningjiang/metis/DBoW_testing/fbow/tests/CMakeFiles/fbow_test_dbow2VSfbow.dir

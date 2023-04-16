@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ningjiang/metis/DBoW_testing/fbow/tests/test_cpu_x86.cpp
+iostream
+-
+cpu.h
+/home/ningjiang/metis/DBoW_testing/fbow/tests/cpu.h
+
